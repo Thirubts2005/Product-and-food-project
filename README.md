@@ -60,5 +60,25 @@ Track saved items
 View past scanned items
 Clear history option
 
-<img width="201" height="195" alt="image" src="https://github.com/user-attachments/assets/9e260b03-9d6f-4480-82b9-6c8b8bedbe2e" />
+🖼️ Project Screenshots:
+
+🛍️ Product Scanner:
+
+![foodofbriyani](https://github.com/user-attachments/assets/aef3248a-f266-402d-8771-9e39a17f31e0)
+
+![mouse](https://github.com/user-attachments/assets/f075aff4-6c07-4621-a360-eb1d30ecfdc3)
+
+Shopping History:
+
+![history](https://github.com/user-attachments/assets/ff83f023-b24a-47f3-a72c-64cb4d2ba6de)
+
+Shopping Tracker:
+
+![Tracker](https://github.com/user-attachments/assets/8c5dd308-1c83-40aa-a032-03866b536fde)
+
+
+Voice Assistant:
+
+https://github.com/user-attachments/assets/0e94f02c-1978-4b97-9c57-4deb363df86f
+
 
