@@ -82,3 +82,50 @@ Voice Assistant:
 https://github.com/user-attachments/assets/0e94f02c-1978-4b97-9c57-4deb363df86f
 
 
+
+
+
+
+🧠 How It Works
+
+User uploads product image
+
+Computer Vision processes image
+
+LLM analyzes context
+
+AI generates intelligent response
+
+Optional: Voice response output
+
+🎯 Problem It Solves
+
+People buy unhealthy food unknowingly
+
+No quick expiry check
+
+No budget tracking awareness
+
+No real-time food intelligence
+
+Hard to compare products in store
+
+This system provides real-time AI guidance while shopping.
+
+🔥 Future Improvements
+
+Barcode API integration
+
+Nutrition database integration
+
+Real-time price comparison
+
+Mobile app version
+
+Personalized diet tracking
+
+👨‍💻 Author
+
+Thiru
+AI & Data Science Student
+Passionate about building real-world AI products 🚀
