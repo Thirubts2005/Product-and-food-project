@@ -1,0 +1,21 @@
+{
+  "history": [
+    {
+      "timestamp": "23/02/2026 20:31",
+      "type": "Shopping",
+      "question": "what is this",
+      "answer": "\u26a0\ufe0f Ollama not running. Please start Ollama first: run 'ollama serve' in terminal..."
+    },
+    {
+      "timestamp": "23/02/2026 20:52",
+      "type": "Shopping",
+      "question": "what is this?",
+      "answer": "Error: 404..."
+    }
+  ],
+  "budget": {
+    "monthly_limit": 2500,
+    "spent": 0
+  },
+  "wishlist": []
+}
