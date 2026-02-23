@@ -59,3 +59,5 @@ Track saved items
 
 View past scanned items
 Clear history option
+
+https://github.com/Thirubts2005/Product-and-food-project/blob/8a3329a6c43863e279f57487aefa54b29f6df87f/mouse.jpeg
